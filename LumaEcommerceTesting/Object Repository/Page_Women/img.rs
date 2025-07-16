@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img</name>
+   <tag></tag>
+   <elementGuidId>de8ffae3-edbe-4f27-8d58-cd2d2c2e6425</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//main[@id='maincontent']/div[4]/div/div/div/div[3]/a/span[2]/img</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>a.block-promo.womens-category-pants > span.image > img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=link[name=&quot;Luma pants Pants for yoga, gym and outdoors Shop Pants&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>cdb20a35-4e80-49e3-ab15-0ef061b42eef</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>https://magento.softwaretestingboard.com/pub/media/wysiwyg/womens/womens-category-pants.jpg</value>
+      <webElementGuid>8f51f58c-95df-4463-ba4b-59c3572315c4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;maincontent&quot;)/div[@class=&quot;columns&quot;]/div[@class=&quot;column main&quot;]/div[@class=&quot;widget block block-static-block&quot;]/div[@class=&quot;blocks-promo&quot;]/div[@class=&quot;block-promo-wrapper block-promo-3columns&quot;]/a[@class=&quot;block-promo womens-category-pants&quot;]/span[@class=&quot;image&quot;]/img[1]</value>
+      <webElementGuid>9f0205e0-2bf4-475b-8a0f-5de5b053c843</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//main[@id='maincontent']/div[4]/div/div/div/div[3]/a/span[2]/img</value>
+      <webElementGuid>de4e2522-70d8-455a-96bd-a37ce5c3aae9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:img</name>
+      <type>Main</type>
+      <value>//img[contains(@src,'https://magento.softwaretestingboard.com/pub/media/wysiwyg/womens/womens-category-pants.jpg')]</value>
+      <webElementGuid>3b4d943b-0e88-4865-9768-3efda0f42fe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/a/span[2]/img</value>
+      <webElementGuid>a8ffa518-0ad6-4c1a-beaf-77a9e9a64505</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'https://magento.softwaretestingboard.com/pub/media/wysiwyg/womens/womens-category-pants.jpg']</value>
+      <webElementGuid>a15385d5-c473-49e7-aacd-40233e0735e5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

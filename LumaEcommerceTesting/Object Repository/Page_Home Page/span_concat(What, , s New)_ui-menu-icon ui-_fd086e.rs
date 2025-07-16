@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_concat(What, , s New)_ui-menu-icon ui-_fd086e</name>
+   <tag></tag>
+   <elementGuidId>1656ce5d-8321-4c8c-b812-d7a4581defb3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//a[@id='ui-id-4']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ui-menu-icon.ui-icon.ui-icon-carat-1-e</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot; Women&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>09c3402f-c342-4228-9f34-c9c7352e3385</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ui-menu-icon ui-icon ui-icon-carat-1-e</value>
+      <webElementGuid>8dd50616-6ac8-4bf3-91f7-2829223961f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;ui-id-4&quot;)/span[@class=&quot;ui-menu-icon ui-icon ui-icon-carat-1-e&quot;]</value>
+      <webElementGuid>1dc266ea-e41d-403f-b218-8af739ae5694</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//a[@id='ui-id-4']/span</value>
+      <webElementGuid>b4c8d00b-a0f2-41b5-ae97-8b4dc3769865</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//li[2]/a/span</value>
+      <webElementGuid>9d12f8c5-fbc6-4010-aadc-169bfd113ae8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
